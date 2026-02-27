@@ -62,3 +62,4 @@ You can use the onboarding screenshots from this blog post:
 - If startup fails with `latest`, switch to `main` and rerun setup.
 - Make sure Docker is running before executing `./docker-setup.sh`.
 - Re-run the script after changing `OPENCLAW_IMAGE`.
+- Reguarly backup `~/.openclaw/openclaw.json` on your host server, before upgrade or re-install
